@@ -1,0 +1,40 @@
+﻿body {
+    background-color: transparent;
+}
+
+
+.bg-white {
+    background-color: white
+}
+
+.font-white{
+    color:white;
+}
+.svg-white {
+    color:white
+}
+.card-header-purple {
+    background-color: #37087d;
+    color: white
+}
+
+
+.img-xs {
+    height: 28px;
+    width: 28px;
+}
+
+.img-sm {
+    height: 32px;
+    width: 32px;
+}
+
+.img-md {
+    height: 64px;
+    width: 64px;
+}
+
+.img-lg {
+    height: 128px;
+    width: 128px;
+}

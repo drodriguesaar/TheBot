@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+<body>
+    <div class="container pt-2">
+        <div class="card shadow mb-5 rounded">
+            <div class="card-header text-center">
+                <h2 class="display-6 pt-2 font-weight-bold">
+                    <img class="rounded mr-3 img-md svg-white" src="/imgs/icons/joystick.svg" />Jogo da Forca
+                </h2>
+            </div>
+            <div class="card-body">
+                <div id="forcajogoloader" class="text-center mt-6 mb-6"></div>
+                <div id="forcasegredo"></div>
+                <div id="forcajogadores"></div>
+                <div id="forcajogocomvencedor"></div>
+                <div id="forcajogosemvencedor"></div>
+            </div>
+        </div>
+    </div>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <script src="Scripts/jquery-1.6.4.min.js"></script>
+    <script src="Scripts/jquery.signalR-2.4.1.min.js"></script>
+    <script src="http://localhost:8080/signalr/hubs"></script>
+    <script src="Scripts/boostrap.bundle.min.js"></script>
+    <script src="Scripts/game.forca.js"></script>
+</body>
+</html>
