@@ -1,6 +1,10 @@
-# Stream Bot
 
-Projeto usando console aplication em C# usando o .Net Framework 4.7.2.
+
+<img src="https://user-images.githubusercontent.com/4818374/97811667-ce608b00-1c5a-11eb-85da-9c24ad25c081.png" height="128" width="128" /> 
+
+ # Stream Bot
+
+Projeto usando console aplication em C# usando o .Net Framework 4.7.2. Acompanhe a implementação na twitch em [daniel_dev](https://www.twitch.tv/daniel_dev)
 
 Desenvolvi alguns recursos deste bot utilizando a biblioteca de integração com a twitch, chamada [TwitchLib](https://github.com/TwitchLib/TwitchLib), disponível no github e também como um pacote [Nuget TwitchLib](https://www.nuget.org/packages/TwitchLib).
 
