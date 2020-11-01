@@ -35,3 +35,4 @@ Desenvolvi alguns recursos deste bot utilizando a biblioteca de integração com
 - Integração com YouTube.
 - Integração com Facebook.
 - Parametrização de recursos associados ao bot (Piada, Meme, TTS e etc) para utilização em outros serviços de stream.
+- Adcionar novo Jogo
