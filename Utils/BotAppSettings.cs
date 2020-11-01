@@ -83,5 +83,21 @@ namespace DanielDevBot.Utils
                 return ConfigurationManager.AppSettings["x_rapid_api_key"];
             }
         }
+        
+         public static string ReacoesPath
+        {
+            get
+            {
+                return ConfigurationManager.AppSettings["reacoes_path"];
+            }
+        }
+
+        public static string MemesPath
+        {
+            get
+            {
+                return ConfigurationManager.AppSettings["memes_path"];
+            }
+        }
     }
 }
