@@ -23,9 +23,10 @@ Desenvolvi alguns recursos deste bot utilizando a biblioteca de integração com
 - Twitch
 
 ### Futuras implementações
-- Associar imagens com os memes enviados pelos participantes
-- UI para controlar funções do bot
-- Parametrização de integrações
-- Integração com YouTube
-- Integração com Facebook
-- Parametrização de recursos associados ao bot (Piada, Meme, TTS e etc) para utilização em outros serviços de stream
+- Associar imagens com os memes enviados pelos participantes.
+- UI para controlar funções do bot.
+- Parametrização de integrações.
+- Integração com Streamlabs.
+- Integração com YouTube.
+- Integração com Facebook.
+- Parametrização de recursos associados ao bot (Piada, Meme, TTS e etc) para utilização em outros serviços de stream.
