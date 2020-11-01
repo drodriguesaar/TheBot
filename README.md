@@ -23,7 +23,7 @@ Desenvolvi alguns recursos deste bot utilizando a biblioteca de integração com
 - Twitch
 
 **Futuras implementações**
--Associar imagens com os memes enviados pelos participantes
--UI para controlar funções do bot
--Integração com YouTube
--Integração com Facebook
+- Associar imagens com os memes enviados pelos participantes
+- UI para controlar funções do bot
+- Integração com YouTube
+- Integração com Facebook
