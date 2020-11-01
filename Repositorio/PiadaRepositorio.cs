@@ -1,8 +1,7 @@
-﻿using DanielDevBot.Model;
+using DanielDevBot.Model;
+using DanielDevBot.Utils;
 using Dapper;
-using System.Data.SqlClient;
 using System.Data.SQLite;
-using System.Threading.Tasks;
 
 namespace DanielDevBot.Repositorio
 {
@@ -12,7 +11,7 @@ namespace DanielDevBot.Repositorio
 
         public PiadaRepositorio()
         {
-            con = new SQLiteConnection(@"URI=file:H:\Labs\DanielDevBot\DB\piadas.sqlite");
+            con = new SQLiteConnection($@"URI={BotAppSettings.DBPath}piadas.sqlite");
         }
 
         public PiadaModel ObterPiadaAleatoria()
