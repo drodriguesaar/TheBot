@@ -99,5 +99,12 @@ namespace DanielDevBot.Utils
                 return ConfigurationManager.AppSettings["memes_path"];
             }
         }
+        public static string DBPath
+        {
+            get
+            {
+                return ConfigurationManager.AppSettings["db_path"];
+            }
+        }
     }
 }
