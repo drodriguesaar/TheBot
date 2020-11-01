@@ -28,6 +28,7 @@ Desenvolvi alguns recursos deste bot utilizando a biblioteca de integração com
 
 ### Futuras implementações
 - Associar imagens com os memes enviados pelos participantes.
+- Refatoração de código para adequação de design patterns
 - UI para controlar funções do bot.
 - Parametrização de integrações.
 - Integração com Streamlabs.
